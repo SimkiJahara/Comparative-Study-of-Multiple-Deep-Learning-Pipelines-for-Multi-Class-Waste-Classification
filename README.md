@@ -1,0 +1,1 @@
+# Comparative-Study-of-Multiple-Deep-Learning-Pipelines-for-Multi-Class-Waste-Classification
